@@ -1,0 +1,3 @@
+/home/tung/Desktop/TrackinguselibraryOpencv/build/CMakeFiles/edit_cache.dir
+/home/tung/Desktop/TrackinguselibraryOpencv/build/CMakeFiles/rebuild_cache.dir
+/home/tung/Desktop/TrackinguselibraryOpencv/build/CMakeFiles/TrackinguselibraryOpencv.dir
